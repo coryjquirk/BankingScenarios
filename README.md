@@ -1,1 +1,1 @@
-# JavaCafeExercise
+# BankingScenarios
