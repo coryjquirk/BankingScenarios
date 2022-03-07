@@ -1,6 +1,5 @@
 # BankingScenarios 
-Fulfilling business requirements for a banking application. 
-
+Fulfilling business requirements for a banking application. For full requirements, see `Banking_scenarios.docx`
 ## Explanation 
 Java class for bank account with subclasses checking account, savings account, privileges account, and credit card will provide methods for a user to interact with their bank account.
 
@@ -17,3 +16,4 @@ Please select an option:
 3: Show current balance 
 4: Exit 
 ```
+

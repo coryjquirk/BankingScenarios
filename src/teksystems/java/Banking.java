@@ -13,9 +13,11 @@ public class Banking {
     private float interestRate;
     private float tax;
     private Date dateCreated = new Date();
-    //TODO: use FileWriter to store balance
     private static Double balance;
     private static String filePath = "file1.txt";
+
+    //TODO: store the remainder of user data (just 1 user) as a file
+    //Filewriter currently just stores a single number, the account balance.
 
     public static void initBankdataFile(){
         try {
